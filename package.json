@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@expo-google-fonts/nunito-sans": "^0.1.0",
+    "react-native-screens": "^2.17.1"
+  }
+}
